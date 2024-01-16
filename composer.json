@@ -1,12 +1,12 @@
 {
-    "name": "codesleeve/laravel-stapler",
+    "name": "zunaid/laravel-stapler",
     "description": "Easy file upload management for the Laravel Framework.",
     "keywords": ["laravel", "file", "upload", "S3", "AWS", "stapler", "paperclip"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Travis Bennett",
-            "email": "tandrewbennett@hotmail.com"
+            "name": "Zunaid Miah",
+            "email": "jonaeidhossain589@gmail.com"
         }
     ],
     "require": {
