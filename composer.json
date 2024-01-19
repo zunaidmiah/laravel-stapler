@@ -18,7 +18,7 @@
             "src/migrations"
         ],
         "psr-4": {
-            "Codesleeve\\LaravelStapler\\": "src/"
+            "Zunaid\\LaravelStapler\\": "src/"
         }
     },
     "minimum-stability": "stable"
